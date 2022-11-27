@@ -1,0 +1,13 @@
+name: 
+  ru: Виктор
+family:
+  ru: Квиринг
+patronymic:
+  ru: Владимирович
+birth:
+  date: 1980-12-22
+  place: 
+    ru: Россия, Пермская область, г. Губаха
+childs:
+  - kviring/001-Aleskey.Victorovich
+  
